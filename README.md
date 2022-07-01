@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-*Welcome to my GitHub profile...I know what you are here for...Hear me out...I am a Data Analyst, and here's why*
+**Welcome to my GitHub profile...I know what you are here for🌚...Hear me out...I am a Data Analyst, and here's why😀**
 
-#### About Me
+#### About Me 💻 📊
 
 I am a Data Analyst with experience using Python, Power BI, and SQL for data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization.
 
@@ -13,20 +13,20 @@ I also use Python and other Python libraries like Pandas, Numpy, Matplotlib.pypl
 Currently, I am working on personal projects, creating related contents and open to collaborations and remote contract jobs.
 
 
-#### Certification(s)
+#### Certification(s) 
 
 * [I am a Microsoft Certified Power BI Data Analyst Associate](https://www.credly.com/badges/2cf1be6b-24b4-4895-a777-67b0d7b6709c?source=linked_in_profile)
 ![Power BI certificate](https://user-images.githubusercontent.com/57644935/176925009-e04d1662-0e4f-453e-a3c6-4858ee820597.jpg)
 
 
-#### Contact Me
+#### Contact Me 📧
 
 You can reach out to me on these different platforms:
 
 * [LinkedIn](https://www.linkedin.com/in/samuel-shaibu-a59622121/)
 * [Twitter](https://twitter.com/itz_samietex)
 
-#### Articles
+#### Articles ✍🏿
 
 I create contents around Data Analysis, Data Science, Artificial Intelligence, and others. You can check them out on my [Medium Profile](https://medium.com/@Samietex)
 
