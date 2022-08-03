@@ -18,6 +18,9 @@ Currently, I am working on personal projects, creating related contents and open
 * [I am a Microsoft Certified Power BI Data Analyst Associate](https://www.credly.com/badges/2cf1be6b-24b4-4895-a777-67b0d7b6709c?source=linked_in_profile)
 ![Power BI certificate](https://user-images.githubusercontent.com/57644935/176925009-e04d1662-0e4f-453e-a3c6-4858ee820597.jpg)
 
+* [Udacity Data Analyst Nanodegree Graduate](https://confirm.udacity.com/VNKDFEG7)
+![Udacity certificate](https://user-images.githubusercontent.com/57644935/182566932-3eb8c3a5-cc8f-4ac9-8a57-4501f4f0074c.jpg)
+
 
 #### Contact Me 📧
 
