@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, 👋
 
-**Welcome to my GitHub profile...I know what you are here for🌚...Hear me out...I am a Data Analyst, and here's why😀**
+**Welcome to my GitHub profile...Thanks for stopping by.**
 
 #### About Me 💻 📊
 
-I am a Data Analyst with experience using Python, Power BI, and SQL for data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization.
+Hello guys, I am Samuel Shaibu. I do a bit of data analysis and machine learning, so I can refer to myself as a data Scientist. Over the years, I have gathered expertise and experience with tools and programming languages like Python, Power BI, and SQL. I have built personal projects surrounding data extraction, wrangling, cleaning, transformation, modeling, analysis, machine learning, artificial intelligence, and visualization.
 
-I specifically use Power BI for building reports and dashboards that communicates insights in a more structured way. You can check out some of my [Power BI projects](https://community.powerbi.com/t5/user/viewprofilepage/user-id/289450) 
+I recently graduated with a bachelor of science degree from the department of Mechanical engineering at the University of Ibadan. My final year project was on Energy Grid Optimization using Deep Machine Learning. The project is still ongoing, where I am building multiple deep learning models for detecting faults and forecasting load demand. The objective of the project also encompasses building a tracker dashboard using Microsoft Power BI for IBEDC.
 
-I also use Python and other Python libraries like Pandas, Numpy, Matplotlib.pyplot, Seaborn, Keras, Tensorflow, etc. for building data preprocessing, feature engineering, and for building machine learning/deep learning models.
+I specifically use Power BI for building reports and dashboards that communicate insights in a more structured way. You can check out some of my [Power BI projects](https://community.powerbi.com/t5/user/viewprofilepage/user-id/289450) 
 
-Currently, I am working on personal projects, creating related contents and open to collaborations and remote contract jobs.
+I also use Python and other Python libraries like Pandas, Numpy, Matplotlib.pyplot, Seaborn, Keras, Tensorflow, etc. for building data preprocessing, feature engineering, and machine learning and deep learning models.
+
+Currently, I am working on personal projects, creating related content, and am open to collaborations and remote contract jobs.
 
 
 #### Certification(s) 
@@ -31,24 +33,8 @@ You can reach out to me on these different platforms:
 
 #### Articles ✍🏿
 
-I create contents around Data Analysis, Data Science, Artificial Intelligence, and others. You can check them out on my [Medium Profile](https://medium.com/@Samietex)
+I create content around Data Analysis, Data Science, Artificial Intelligence, and others. You can check them out on my [Medium Profile](https://medium.com/@Samietex)
 
 #### Power BI Community Profile
 
 In this [Profile](https://community.powerbi.com/t5/user/viewprofilepage/user-id/289450), you can have access to some reports I have built and will build using Power BI
-
-###
-<!--
-**samietex/samietex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
