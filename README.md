@@ -4,7 +4,7 @@
 
 #### About Me 💻 📊
 
-Hello guys, I am Samuel Shaibu. I do a bit of data analysis and machine learning, so I can refer to myself as a data scientist. Over the years, I have gathered expertise and experience with tools and programming languages like Python, Power BI, and SQL. I have built personal projects surrounding data extraction, wrangling, cleaning, transformation, modeling, analysis, machine learning, artificial intelligence, and visualization.
+Hello guys, I am Samuel Shaibu. I am a data scientist with years of experience building and deploying machine learning solutions. Over the years, I have gathered expertise and experience with tools and programming languages like Python, Power BI, and SQL. I have built personal projects surrounding data extraction, wrangling, cleaning, transformation, modeling, analysis, machine learning, artificial intelligence, and visualization.
 
 I graduated with a bachelor of science degree from the department of mechanical engineering at the University of Ibadan. My final year project was on energy grid optimization using deep machine learning, where I am building multiple deep learning models for detecting faults and forecasting load demand. The objective of the project also encompasses building a tracker dashboard using Microsoft Power BI for IBEDC.
 
