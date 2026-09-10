@@ -6,7 +6,7 @@ Based in **Vilnius, Lithuania** — I build data products and AI-powered workflo
 <p>
   <a href="https://www.linkedin.com/in/samuel-shaibu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="https://github.com/samietex"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-black"></a>
-  <a href="https://samietex.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen"></a>
+  <a href="https://shaibusamuel.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen"></a>
   <a href="https://medium.com/@Samietex"><img alt="Medium" src="https://img.shields.io/badge/Medium-Read-black"></a>
   <a href="https://substack.com/@samuelshaibu?"><img alt="Substack" src="https://img.shields.io/badge/Substack-Read-black"></a>
   <a href="https://community.powerbi.com/t5/user/viewprofilepage/user-id/289450"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-Projects-yellow"></a>
