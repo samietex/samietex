@@ -123,7 +123,6 @@ I also teach and write: **18+ tutorials** for DataCamp, **40+ students** taught,
 | 🎈 [Streamlit_Tutorial](https://github.com/all-about-data-and-more/Streamlit_Tutorial) | Turning data scripts into web apps, with three demo apps |
 | 🐙 [What-is-GitHub](https://github.com/samietex/What-is-GitHub) | A beginner's guide to Git and GitHub |
 | 📰 [All About Data & More](https://aaboutdata.substack.com) | A newsletter on becoming job-ready in data |
-| 📊 [Power BI community](https://community.powerbi.com/t5/user/viewprofilepage/user-id/289450) | Power BI dashboards and case studies |
 
 ## 🎓 Certifications and publication
 
